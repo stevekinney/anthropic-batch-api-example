@@ -1,5 +1,7 @@
 # Anthropic Batch API Example
 
+This is the companion code for my post on [Using Anthropic's Message Batch API with Temporal](https://stevekinney.com/writing/anthropic-batch-api-with-temporal).
+
 To install dependencies:
 
 ```bash
